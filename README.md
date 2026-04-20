@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/burning-berk/Samsung.OneUI.WinUI/blob/main/samsung_images/image.webp?raw=true" width=200%>
+  <img src="https://github.com/burning-berk/Samsung.OneUI.WinUI/blob/main/samsung_images/fota_illust.webp?raw=true" width=200%>
 
 This project is the extracted content of Samsung's One UI for pc data
 

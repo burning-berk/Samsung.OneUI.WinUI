@@ -1,0 +1,50 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <AssemblyName>Samsung.OneUI.WinUI</AssemblyName>
+    <GenerateAssemblyInfo>False</GenerateAssemblyInfo>
+    <TargetFramework>net8.0</TargetFramework>
+    <PlatformTarget>x64</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup>
+    <LangVersion>14.0</LangVersion>
+    <AllowUnsafeBlocks>True</AllowUnsafeBlocks>
+    <CheckForOverflowUnderflow>False</CheckForOverflowUnderflow>
+  </PropertyGroup>
+  <PropertyGroup />
+  <ItemGroup />
+  <ItemGroup>
+    <Reference Include="WinRT.Runtime">
+      <HintPath>..\tedtgfygeu\WinRT.Runtime.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.WinUI">
+      <HintPath>..\tedtgfygeu\Microsoft.WinUI.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Windows.SDK.NET">
+      <HintPath>..\tedtgfygeu\Microsoft.Windows.SDK.NET.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Windows.ApplicationModel.Resources.Projection">
+      <HintPath>..\tedtgfygeu\Microsoft.Windows.ApplicationModel.Resources.Projection.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.InteractiveExperiences.Projection">
+      <HintPath>..\tedtgfygeu\Microsoft.InteractiveExperiences.Projection.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Xaml.Interactivity">
+      <HintPath>..\tedtgfygeu\Microsoft.Xaml.Interactivity.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Graphics.Canvas.Interop">
+      <HintPath>..\tedtgfygeu\Microsoft.Graphics.Canvas.Interop.dll</HintPath>
+    </Reference>
+    <Reference Include="CommunityToolkit.WinUI.Helpers">
+      <HintPath>..\tedtgfygeu\CommunityToolkit.WinUI.Helpers.dll</HintPath>
+    </Reference>
+    <Reference Include="CommunityToolkit.WinUI.Media">
+      <HintPath>..\tedtgfygeu\CommunityToolkit.WinUI.Media.dll</HintPath>
+    </Reference>
+    <Reference Include="CommunityToolkit.WinUI.Extensions">
+      <HintPath>..\tedtgfygeu\CommunityToolkit.WinUI.Extensions.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Xaml.Interactions">
+      <HintPath>..\tedtgfygeu\Microsoft.Xaml.Interactions.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+</Project>
